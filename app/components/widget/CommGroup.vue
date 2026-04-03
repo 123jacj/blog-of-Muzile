@@ -1,19 +1,7 @@
+vue
 <template>
-<BlogWidget
-	card
-	dim
-	title="博客/技术社区"
-	bg-img="https://p.qlogo.cn/gh/169994096/169994096/100/"
-	bg-right
->
-	<div class="title text-creative">
-		纸网接入点
-	</div>
-
-	<Tip copy icon :tip-options="{ placement: 'left' }">
-		<Icon name="ri:qq-fill" />169994096
-	</Tip>
-</BlogWidget>
+<!-- 社区组件（已隐藏，后续可添加自己的社区信息） -->
+<div style="display: none;"></div>
 </template>
 
 <style lang="scss" scoped>
