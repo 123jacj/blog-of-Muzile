@@ -9,7 +9,7 @@ const basicConfig = {
 		name: 'Muzile',
 		avatar: 'https://cdn.jsdelivr.net/gh/123jacj/my-images@main/Muzile.jpg', // 头像地址
 		email: '1439668752@qq.com', // 邮箱
-		homepage: 'https://123jacj.github.io/', // 个人主页
+		homepage: 'https://www.muzile.top/', // 个人主页
 	},
 	copyright: {
 		abbr: 'CC BY-NC-SA 4.0',

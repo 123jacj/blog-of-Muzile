@@ -58,7 +58,7 @@ export default defineAppConfig({
 		/** 侧边栏底部图标导航 */
 		iconNav: [
 			{ icon: 'ph:house-bold', text: '个人主页', url: blogConfig.author.homepage },
-			{ icon: 'ph:github-logo-bold', text: 'GitHub: 木子李/Muzile', url: 'https://github.com/123jacj' },
+			{ icon: 'ph:github-logo-bold', text: 'GitHub: 木子李/Muzile', url: 'https://www.muzile.top/' },
 			{ icon: 'ph:rss-simple-bold', text: 'Atom订阅', url: '/atom.xml' },
 			{ icon: 'ph:subway-bold', text: '开往', url: 'https://www.travellings.cn/' },
 		] satisfies NavItem[],
@@ -74,7 +74,7 @@ export default defineAppConfig({
 			{
 				title: '社交',
 				items: [
-					{ icon: 'ph:github-logo-bold', text: '木子李/Muzile', url: 'https://github.com/123jacj' },
+					{ icon: 'ph:github-logo-bold', text: '木子李/Muzile', url: 'https://www.muzile.top/' },
 					{ icon: 'ph:envelope-simple-bold', text: blogConfig.author.email, url: `mailto:${blogConfig.author.email}` },
 				],
 			},
