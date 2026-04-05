@@ -3,7 +3,7 @@ title: 一切都从这个春天开始——第一篇博客
 description: 当迷茫的时候，回头去看，不妨让节奏慢下来，生活往往教给你很多，一切都从现在开始
 date: 2026-04-04 10:53:04
 updated: 2026-04-04 22:50:00
-image: #放链接
+image: https://res.cloudinary.com/dgfqlwje4/image/upload/v1775381789/img_v3_0210f_9369a419-750b-4f11-b615-f4f7a057a1ag_y3o3sz.jpg
 type: story
 categories: [杂谈]
 tags: [内心, 思考, 自我剖析]
