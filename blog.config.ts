@@ -80,13 +80,13 @@ const blogConfig = {
 		// 自己网站的 Cloudflare Insights 统计服务
 		{ 'src': '', '': '{"token": ""}', 'defer': true },
 		// Twikoo 评论系统
-		{ src: '', defer: true },
+		{ src: 'https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js', defer: true },
 	],
 
 	/** 自己部署的 Twikoo 服务 */
 	twikoo: {
-		envId: '',
-		preload: '',
+		envId: 'https://muzile.vercel.app/',
+		preload: 'https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js',
 	},
 }
 
